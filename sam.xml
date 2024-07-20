@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <VirtualServiceConfig xmlns="http://www.soapui.org/virtserver/config">
     <VirtualService name="SampleVirtualService">
-        <Port name="SamplePort" protocol="HTTP" port="8080" />
+        <Port name="SamplePort" protocol="HTTP" port="8085" />
         
         <!-- Define service endpoints and behaviors -->
         <Endpoints>
