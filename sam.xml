@@ -8,7 +8,7 @@
             <Endpoint>
                 <Request>
                     <HTTPMethod>GET</HTTPMethod>
-                    <Path>/api/resource</Path>
+                    <Path>/api/vj/test</Path>
                     <!-- Optionally specify request headers, parameters, etc. -->
                 </Request>
                 <Response>
